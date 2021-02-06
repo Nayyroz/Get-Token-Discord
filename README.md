@@ -1,10 +1,19 @@
 # Get-Token-Discord
-1- Installer le fichier .zip
+1- Installer le .zip
 
-2- Le lancer
+2- Le Lancer
 
-3- Faire node index.js pour l'exécuter
+3- Faire python GetTokenDiscord.py pour l'exécuter
 
-4- Mettre son mail et son mot de passe 
+4- Mettre son email et son mot de passe
 
 5- Votre token s'affichera
+
+
+
+
+
+
+
+
+
